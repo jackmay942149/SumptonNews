@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <head>
-    <title>News — Sumpton News</title>
+    <title>About Us — Sumpton News</title>
     <link rel="stylesheet" href="./style.css">
     <link rel="icon" href="./branding/logo_black.PNG">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
@@ -10,15 +11,26 @@
 
         <div class="logo">
             <a href="./index.html">
-                <img src="./branding/logo_long_black.PNG">
+                <picture>
+                    <source media="(min-width: 1000px)" srcset="./branding/logo_long_black.PNG">
+                    <img src="./branding/logo_black.PNG" alt="">
+                </picture>
             </a>
         </div>
 
         <ul class="navbar">
-            <a href="./index.html"><li>Home</li></a>
-            <a href="./news.html"><li>News</li></a>
-            <a href="./about_us.html"><li>About Us</li></a>
-            <a href="./advertise_with_us.html"><li>Advertise With Us</li></a>
+            <li><a href="./index.html">Home</a></li>
+            <li class="dropdown"><a href="./news.html">News</a>
+                <ul class="dropdown_news">
+                    <li><a href="news.html">All News</a></li>
+                    <li><a href="local_news.html">Local News</a></li>
+                    <li><a href="politics.html">Politics</a></li>
+                    <li><a href="opinion.html">Opinion</a></li>
+                </ul>
+            </li>
+            <li><a href="./about_us.html">About Us</a></li>
+            <li><a href="./advertise_with_us.html">Advertise With Us</a></li>
+            <li><a href="https://www.sumptonsgoldrushgazette.com/">Sumpton's Gold Rush Gazette</a></li>
         </ul>
 
     </div>

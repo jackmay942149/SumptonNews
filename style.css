@@ -23,9 +23,16 @@ body {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    margin-bottom: 0px;
+    padding-bottom: 50px;
+    padding-left: 0px;
 }
 
+.navbar img {
+    height: 40px;
+    width: 40px;
+    vertical-align: bottom;
+    display: inline-block;
+}
 .navbar a:hover {
     text-decoration: underline;
 }
@@ -43,6 +50,14 @@ body {
     font-size: 30px;
     color: black;
     text-decoration: none;
+}
+
+@media (max-width: 1000px)
+{
+    .navbar li {
+        display: block;
+        padding: 0px;
+    }
 }
 
 .dropdown_news {
@@ -65,9 +80,40 @@ body {
     padding-top: 0%;
 }
 
-.dropdown:hover .dropdown_news { 
-    display: block;
+@media (min-width: 1000px)
+{
+    .dropdown:hover .dropdown_news { 
+        display: block;
+        padding-left: 0px;
+    }
+}
+
+@media (max-width: 1000px)
+{
+    .social_links ul {
+        display: inline-block;
+    }
+
+    .social_links li {
+        display: inline-block;
+    }
+}
+
+.social_links ul{
+    width: 150px;
     padding-left: 0px;
+}
+
+.social_links img{
+    display: inline-block;
+}
+
+
+
+@media (max-width: 1000px)
+{
+    .home_left { display: none;}
+    .home_right { display: none;}
 }
 
 .home_left {
@@ -123,8 +169,14 @@ body {
 
 .home_centre {
     display: inline-block;
-    max-width: 70%;
+    width: 60%;
     text-align: center;
+    margin: auto;
+}
+
+@media (max-width: 1000px)
+{
+    .home_centre { display: block;}
 }
 
 .home_centre h1 {
@@ -132,6 +184,7 @@ body {
     margin-bottom: 0px;
     font-family: DIN_Condensed, sans-serif;
     font-size: 40px;
+    align-self: center;
 }
 
 .home_centre img {
