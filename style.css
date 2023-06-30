@@ -59,6 +59,9 @@ body {
 
 @media (max-width: 1000px)
 {
+    .navbar {
+        padding: 0px;
+    }
     .navbar li {
         display: block;
         padding: 0px;
