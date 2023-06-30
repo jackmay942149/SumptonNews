@@ -16,6 +16,13 @@ body {
     margin-right: auto;
 }
 
+@media (max-width:1000px)
+{
+    .header img {
+        width: 20vw;
+    }
+}
+
 .navbar {
     display: block;
     margin-left: auto;
