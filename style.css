@@ -136,6 +136,7 @@ body {
 
 .home_left h1 {
     margin-top: 1vh;
+    margin-bottom: 1vh;
     font-family: DIN_Condensed, sans-serif;
     font-size: 40px;
 }
@@ -151,14 +152,14 @@ body {
 .left_article h2 {
     margin: 0px;
     font-family: DIN_Condensed, sans-serif;
-    font-size: 22px;
+    font-size: 20px;
     margin-bottom: 2%;
 }
 
 .left_article p {
     margin: 0px;
     margin-bottom: 5%;
-    font-size: 12px;
+    font-size: 20px;
     
 }
 
@@ -222,11 +223,18 @@ body {
 {
     .home_centre { 
         display: block;
-        width: 90%;
+        width: 90vw;
     }
 
     .home_centre img {
-        width: 90vw
+        width: 90%
+    }
+
+    .home_centre p {
+        padding-left: 10%;
+        padding-right: 10%;
+        white-space: nowrap;
+        min-width: fit-content;
     }
 }
 
