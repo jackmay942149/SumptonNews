@@ -337,9 +337,42 @@ body {
     vertical-align: top;
 }
 
-.video_statement {
+.about_us {
+    display: block;
     text-align: center;
-    height: 80vh;
+    
+}
+
+.about_us h1 {
+    font-family: DIN_Condensed, sans-serif;
+    font-size: 50px;
+    min-width: 80vw;
+    margin: auto;
+}
+
+.about_us p {
+    text-align: left;
+    font-family: DIN_Condensed, sans-serif;
+    font-size: 50px;
+    min-width: 80vw;
+    margin: auto;
+}
+
+.twitter_profile 
+{
+    display: block;
+    max-width: 40vw;
+    margin: auto;
+}
+
+.twitter_profile img
+{
+    width: 100%;
+    padding-bottom: 1vh;
+}
+
+@media (max-width: 1000px) {
+    .twitter_profile { max-width: 90vw;}
 }
 
 .comingsoon {
