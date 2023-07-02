@@ -4,6 +4,14 @@ body {
     margin: 0px;
 }
 
+p {
+    padding: 10px;
+    margin: 0px;
+    max-width: 25vw;
+    font-family: DIN_Condensed, sans-serif;
+    font-size: 30px;
+}
+
 .header {
     border: 20px;
     background-color: gold;   
@@ -41,6 +49,10 @@ body {
 
 .navbar a:hover {
     text-decoration: underline;
+}
+
+.navbar a:active {
+    color: gray;
 }
 
 .navbar li {
@@ -177,6 +189,10 @@ body {
     background-color: #2a2a2a;
 }
 
+.left_article a p:active {
+    background-color: gray;
+}
+
 .left_article a {
     text-decoration: none;
 }
@@ -221,6 +237,10 @@ body {
 
 .home_centre a p:hover {
     background-color: #2a2a2a;
+}
+
+.home_centre a p:active {
+    background-color: gray;
 }
 
 .home_centre a {
@@ -304,51 +324,6 @@ body {
     display: inline-block;
 }
 
-.article_row {
-    padding-top: 30px;
-    text-align: center;
-}
-
-.article_row img {
-    max-width: 25vw;
-    padding: 20px;
-}
-
-.article_row h2{
-    text-align: center;
-}
-
-.article_row p {
-    text-align: left;
-}
-
-.article_row h2, p{
-    padding: 10px;
-    margin: 0px;
-    max-width: 25vw;
-    font-family: DIN_Condensed, sans-serif;
-    font-size: 30px;
-}
-
-.article_row a p {
-    text-align: center;
-    padding-top: 1vh;
-    padding-bottom: 1vh;
-    background-color: black;
-    color: white;
-    margin-left: 20%;
-    margin-right: 20%;
-}
-
-.article_row a {
-    text-decoration: none;
-}
-
-.article_listed {
-    display: inline-block;
-    vertical-align: top;
-}
-
 .about_us {
     display: block;
     text-align: center;
@@ -357,7 +332,7 @@ body {
 
 .about_us h1 {
     font-family: DIN_Condensed, sans-serif;
-    font-size: 50px;
+    font-size: 40px;
     min-width: 80vw;
     margin: auto;
 }
@@ -365,7 +340,7 @@ body {
 .about_us p {
     text-align: left;
     font-family: DIN_Condensed, sans-serif;
-    font-size: 50px;
+    font-size: 30px;
     min-width: 80vw;
     margin: auto;
 }
