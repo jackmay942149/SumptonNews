@@ -324,10 +324,135 @@ p {
     display: inline-block;
 }
 
+.news_header {
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    font-family: DIN_Condensed, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.news_selections {
+    display: none;
+}
+
+@media (max-width: 1000px)
+{
+    .news_header {
+        margin-bottom: 0px;;
+    }
+    .news_selections {
+        display: block;
+        text-align: center;
+        padding: 0px;
+    }
+
+    .news_selections li {
+        font-family: DIN_Condensed, sans-serif;
+        font-size: 30px;
+        list-style: none;
+    }
+
+    .news_selections a {
+        text-decoration: none;
+        color: black;
+    }
+}
+
+.box {
+    border-style: solid;
+    background-color: #e5e5e5;
+    border-color: #e5e5e5;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.article_entry {
+    width: 33%;
+    display: inline-table;
+    padding: 0;
+    font-family: DIN_Condensed, sans-serif;
+    min-height: 40vh;
+}
+
+.article_entry img {
+    width: 90%;
+    display: block;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 1vh;
+    transition: 2s;
+}
+
+.article_entry img:hover {
+    width: 99%;
+    margin-left: 1%;
+    margin-right: 1%;
+    transition: 2s;
+}
+
+.article_entry h2 {
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 30px;
+    height: 111px;
+}
+
+.article_entry h3 {
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 28px;
+    margin-top: 0px;
+    margin-bottom: 1vh;
+}
+
+.article_entry a p {
+    background-color: black;
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    text-align: center;
+    margin-bottom: 2vh;
+    vertical-align: bottom;
+}
+
+.article_entry a p:hover {
+    background-color: #2a2a2a;
+}
+
+.article_entry a p:active {
+    background-color: gray;
+}
+
+.article_entry a {
+    text-decoration: none;
+    text-align: center;
+}
+
+@media (max-width: 1000px){
+    .article_entry{
+        width: 90%;
+        display: block;
+        margin: auto;
+    }   
+
+    .article_entry img {
+        width: 90%;
+    }
+
+    .article_entry a p {
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        min-width: fit-content;
+    }
+}
+
 .about_us {
     display: block;
     text-align: center;
-    
 }
 
 .about_us h1 {
