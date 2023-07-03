@@ -370,9 +370,10 @@ p {
 .article_entry {
     width: 33%;
     display: inline-table;
-    padding: 0;
+    padding-bottom: 3vh;
     font-family: DIN_Condensed, sans-serif;
     min-height: 40vh;
+
 }
 
 .article_entry img {
@@ -380,7 +381,7 @@ p {
     display: block;
     margin-left: 5%;
     margin-right: 5%;
-    padding-top: 1vh;
+    padding-top: 2vh;
     transition: 2s;
 }
 
@@ -395,7 +396,7 @@ p {
     padding-left: 5%;
     padding-right: 5%;
     font-size: 30px;
-    height: 111px;
+    height: 148px;
 }
 
 .article_entry h3 {

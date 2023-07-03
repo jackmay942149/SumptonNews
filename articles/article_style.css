@@ -157,6 +157,11 @@ body {
     font-size: 20px;
 }
 
+.caption {
+    font-size: 12px;
+    font-style: italic;
+}
+
 .footer {
     background-color: gold;
     margin-top: 1vh;
