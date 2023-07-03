@@ -7,15 +7,21 @@ body {
 
 .header {
     border: 20px;
-    background-color: gold;
-    min-height: 33vh;
+    background-color: gold;   
 }
 
 .header img {
     display: block;
-    max-height: 20vh;
+    width: 45vw;
     margin-left: auto;
     margin-right: auto;
+}
+
+@media (max-width:1000px)
+{
+    .header img {
+        width: 20vw;
+    }
 }
 
 .navbar {
@@ -23,12 +29,23 @@ body {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    margin-bottom: 0px;
+    padding-bottom: 50px;
     padding-left: 0px;
+}
+
+.navbar img {
+    height: 40px;
+    width: 40px;
+    vertical-align: bottom;
+    display: inline-block;
 }
 
 .navbar a:hover {
     text-decoration: underline;
+}
+
+.navbar a:active {
+    color: gray;
 }
 
 .navbar li {
@@ -48,6 +65,9 @@ body {
 
 @media (max-width: 1000px)
 {
+    .navbar {
+        padding: 0px;
+    }
     .navbar li {
         display: block;
         padding: 0px;
@@ -82,11 +102,24 @@ body {
     }
 }
 
-
 @media (max-width: 1000px)
 {
-    .home_left { display: none;}
-    .home_right { display: none;}
+    .social_links ul {
+        display: inline-block;
+    }
+
+    .social_links li {
+        display: inline-block;
+    }
+}
+
+.social_links ul{
+    width: 150px;
+    padding-left: 0px;
+}
+
+.social_links img{
+    display: inline-block;
 }
 
 .article {
@@ -108,22 +141,51 @@ body {
     padding-right: 20vw;
 }
 
-.article_text h4, p {
+@media (max-width: 1000px)
+{
+    .article img {
+        width: 90vw;
+    }
+
+    .article_text {
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
+}
+
+.article_text h4, .article_text p {
     font-size: 20px;
 }
 
 .footer {
     background-color: gold;
     margin-top: 1vh;
+    display: block;
+    text-align: center;
 }
 
 .footer p {
     margin: 0px;
     padding-top: 5vh;
-    padding-bottom: 5vh;
+    padding-bottom: 0vh;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    font-family: DIN_Condensed, sans-serif;
-    font-size: 30px;
+    max-width: 100vw;
+}
+
+.footer li {
+    display: inline-block;
+    text-align: center;
+}
+
+.footer ul {
+    min-width: 200px;
+}
+
+.footer img {
+    height: 60px;
+    width: 60px;
+    vertical-align: bottom;
+    display: inline-block;
 }
