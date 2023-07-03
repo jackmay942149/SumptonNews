@@ -470,6 +470,10 @@ p {
     margin: auto;
 }
 
+.about_us img {
+    width: 100%;
+}
+
 .twitter_profile 
 {
     display: block;
