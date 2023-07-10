@@ -491,19 +491,3 @@ p {
 @media (max-width: 1000px) {
     .twitter_profile { max-width: 90vw;}
 }
-
-.comingsoon {
-    min-height: 60vh;
-    text-align: center;
-}
-
-.comingsoon h1{
-    font-family: DIN_Condensed, sans-serif;
-    font-size: 60px;
-}
-
-.comingsoon h2{
-    font-family: DIN_Condensed, sans-serif;
-    font-size: 50px;
-}
-
