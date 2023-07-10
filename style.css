@@ -156,10 +156,12 @@ p {
 
 .left_article {
     min-height: 30vh;
+    margin-bottom: 1vh;
 }
 
 .left_article img {
     max-width: 90%;
+    max-height: 16vh;
 }
 
 .left_article h2 {
@@ -167,6 +169,8 @@ p {
     font-family: DIN_Condensed, sans-serif;
     font-size: 20px;
     margin-bottom: 2%;
+    margin-left: 1vw;
+    margin-right: 1vw;
 }
 
 .left_article p {
