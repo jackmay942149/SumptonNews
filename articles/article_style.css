@@ -162,6 +162,23 @@ body {
     font-style: italic;
 }
 
+.article_tweet {
+    display: block;
+    text-align: center;
+    max-width: 40vw;
+    margin: auto;
+}
+
+@media (max-width: 1000px) {
+    .article_tweet { 
+        max-width: 90vw;
+        display: block;
+        text-align: center;
+        align-items: center;
+        margin: auto;
+    }
+}
+
 .footer {
     background-color: gold;
     margin-top: 1vh;
