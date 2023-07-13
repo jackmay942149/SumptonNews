@@ -130,8 +130,6 @@ p {
     display: inline-block;
 }
 
-
-
 @media (max-width: 1000px)
 {
     .home_left { display: none;}
@@ -273,9 +271,6 @@ p {
 
 .sponser_mobile {
     display: none;
-    border-style: solid;
-    background-color: #e5e5e5;
-    border-color: #e5e5e5;
     margin-left: 1vw;
     margin-right: 1vw;
     margin-top: 3vh;
@@ -287,6 +282,10 @@ p {
 }
 
 .sponser_mobile h1 {
+    margin: 0px;
+}
+
+.sponser_mobile h2 {
     margin: 0px;
 }
 
