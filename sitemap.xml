@@ -9,298 +9,363 @@
 
 <url>
   <loc>https://sumptonnews.com/</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://sumptonnews.com/index.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sumptonnews.com/news.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sumptonnews.com/local_news.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sumptonnews.com/politics.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sumptonnews.com/opinion.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/entertainment.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sumptonnews.com/about_us.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sumptonnews.com/advertise_with_us.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sumptonnews.com/articles/100723_preserving_history_about_veterans_in_ct.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <loc>https://sumptonnews.com/articles/140723_trager_mp_calls_for_immediate_action.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sumptonnews.com/articles/100723_australias_future_has_been_thrown_into_question_due_to_social_media_posts.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/market_report/050723_qld_rural.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/100723_nq_city_council_adopts_youth_strategy.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/100723_1_friendship_and_dating_platform_for_like_minded_singles.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/090623_36_years_of_charters_towers_indoor_sports.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/090623_harvey_norman_charters_towers_at_the_northern_beef_producers_expo.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/020623_sincere_tribute_to_prominent_local_unveiled.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/190523_the_future_of_tourism_in_charters_towers.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/120523_bob_and_milton_team_up_for_education.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/210423_burnzies_bakehouse_a_smash_hit.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/140423_council_keeping_a_close_eye_on_the_water_park.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/140423_generous_locals_help_gulf_country_in_need.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/070423_goldtower_central_to_host_charters_towers_charity_ball.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/310323_despicable_idiot_targets_police_with_graffiti.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/240323_the_bread_wont_be_changing_at_perrys_bakehouse_cafe.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/170323_signs_of_degeneracy_graffiti_gone_wild.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/100323_beekeeping_business_creates_quite_the_buzz.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/030323_first_charity_markets_of_the_year_wonderfully_busy.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/240223_new_soda_bar_on_the_way.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/240223_charters_towers_water_park_now_open.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/170223_big_plans_for_local_tiktok_star.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/170223_first_huge_book_sale_of_the_year.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/100223_towers_is_all_the_talk.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <loc>https://sumptonnews.com/articles/140723_the_albanese_government_wants_to_control.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sumptonnews.com/articles/100223_charters_towers_documentary_uploaded_to_youtube.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sumptonnews.com/articles/030223_two_nye_fireworks_displays_moving_forward.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <loc>https://sumptonnews.com/articles/170723_local_record_breaker_and_medal_holder.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sumptonnews.com/articles/270123_goldtowers_attention_to_detail.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <loc>https://sumptonnews.com/articles/170723_the_abc_lashes_out_at_christianity.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sumptonnews.com/articles/270123_improving_livability_for_young_people.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <loc>https://sumptonnews.com/articles/170723_australians_need_to_support_truth_social.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sumptonnews.com/articles/200123_excitement_builds_for_goldfield_ashes.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <loc>https://sumptonnews.com/market_report/120723_qld_rural.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sumptonnews.com/articles/130123_high_praise_for_excelsior_library.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <loc>https://sumptonnews.com/articles/150723_queensland_senator_praises_journalist_for_calling_out_wef.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://sumptonnews.com/articles/060123_new_years_eve_fireworks_successful.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/060123_big_things_for_the_lawn_barber.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/301222_shade_inspires_reading_at_towers_hill.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/301222_the_future_of_goldtower.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/161222_a_special_christmas_message_with_your_beveridge.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/161222_a_very_katter_christmas.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/091222_the_world_grand_opening.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/091222_water_park_well_underway.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/021222_new_mural_at_flowers_in_the_towers.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/251122_katter_speaks_on_charging_stations.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/181122_charters_towers_newspaper_an_unprecedented_success.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/181122_richies_night_markets_a_huge_success.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/181122_charters_towers_ideal_for_agripower.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/111122_superstar_realtor_in_charters_towers.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/041122_free_town_pool_entry_announced.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/281022_birdie_scoops_into_town.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/281022_texas_longhorn_tours_wins_big.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://sumptonnews.com/articles/281022_library_embraces_halloween.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <loc>https://sumptonnews.com/articles/120723_mt_isa_100_birthday_to_be_celebrated_at_2023_isa_state_festival.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sumptonnews.com/articles/211023_tackling_the_drug_problem_in_town.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/110723_agricultural_succession_and_future_proofing_forum_to_hit.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/100723_preserving_history_about_veterans_in_ct.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/100723_nq_city_council_adopts_youth_strategy.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/market_report/050723_qld_rural.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/181122_charters_towers_ideal_for_agripower.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/100723_australias_future_has_been_thrown_into_question_due_to_social_media_posts.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/100723_donald_trump_jr_slams_the_government.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/100723_1_friendship_and_dating_platform_for_like_minded_singles.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/090623_36_years_of_charters_towers_indoor_sports.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/090623_harvey_norman_charters_towers_at_the_northern_beef_producers_expo.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/020623_sincere_tribute_to_prominent_local_unveiled.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/190523_the_future_of_tourism_in_charters_towers.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/120523_bob_and_milton_team_up_for_education.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/210423_burnzies_bakehouse_a_smash_hit.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/140423_council_keeping_a_close_eye_on_the_water_park.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/140423_generous_locals_help_gulf_country_in_need.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/070423_goldtower_central_to_host_charters_towers_charity_ball.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/310323_despicable_idiot_targets_police_with_graffiti.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/240323_the_bread_wont_be_changing_at_perrys_bakehouse_cafe.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/170323_signs_of_degeneracy_graffiti_gone_wild.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/100323_beekeeping_business_creates_quite_the_buzz.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/030323_first_charity_markets_of_the_year_wonderfully_busy.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/240223_new_soda_bar_on_the_way.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/240223_charters_towers_water_park_now_open.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/170223_big_plans_for_local_tiktok_star.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/170223_first_huge_book_sale_of_the_year.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/100223_towers_is_all_the_talk.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/030223_two_nye_fireworks_displays_moving_forward.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/270123_goldtowers_attention_to_detail.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/270123_improving_livability_for_young_people.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/200123_excitement_builds_for_goldfield_ashes.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/130123_high_praise_for_excelsior_library.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/060123_new_years_eve_fireworks_successful.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/060123_big_things_for_the_lawn_barber.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/301222_shade_inspires_reading_at_towers_hill.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/301222_the_future_of_goldtower.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/161222_a_special_christmas_message_with_your_beveridge.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/161222_a_very_katter_christmas.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/091222_the_world_grand_opening.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/091222_water_park_well_underway.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/021222_new_mural_at_flowers_in_the_towers.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/251122_katter_speaks_on_charging_stations.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/181122_charters_towers_newspaper_an_unprecedented_success.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/181122_richies_night_markets_a_huge_success.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/111122_superstar_realtor_in_charters_towers.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/041122_free_town_pool_entry_announced.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/281022_birdie_scoops_into_town.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/281022_texas_longhorn_tours_wins_big.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/281022_library_embraces_halloween.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sumptonnews.com/articles/141022_katter_speaks_on_bat_dispersal.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://sumptonnews.com/articles/141022_big_rocks_weir_construction_postponed.html</loc>
-  <lastmod>2023-07-10T12:00:31+00:00</lastmod>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/140723_detective_pikachu_returns_on_nintendo.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sumptonnews.com/articles/100723_trashy_horror_movies_just_got_a_lot_trashier.html</loc>
+  <lastmod>2023-07-17T12:19:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
