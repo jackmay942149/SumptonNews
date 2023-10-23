@@ -205,6 +205,43 @@
                     </a>
                 </div>
             </div>
+
+            <h1>COMICS BY XANDER SUMPTON</h1>
+
+            <div class="gerald_comics">
+                <img class="comic" src="/gerald_comics/gerald_comic_001.JPG">
+                <img class="comic" src="/gerald_comics/gerald_comic_002.JPG">
+                <img class="comic" src="/gerald_comics/gerald_comic_003.JPG">
+                <img class="comic" src="/gerald_comics/gerald_comic_004.JPG">
+                <div class="slideshow_buttons">
+                    <span class="slideshow_selector"></span>
+                    <span class="slideshow_selector"></span>
+                    <span class="slideshow_selector"></span>
+                    <span class="slideshow_selector"></span>
+                </div>
+            </div>
+
+            <script>
+                let slideIndex = 0;
+                showSlides();
+
+                function showSlides() {
+                    let i;
+                    let slides = document.getElementsByClassName("comic");
+                    let dots = document.getElementsByClassName("slideshow_selector");
+                    for (i = 0; i < slides.length; i++) {
+                        slides[i].style.display = "none";  
+                    }
+                    slideIndex++;
+                    if (slideIndex > slides.length) {slideIndex = 1}    
+                    for (i = 0; i < dots.length; i++) {
+                        dots[i].className = dots[i].className.replace(" active", "");
+                    }
+                    slides[slideIndex-1].style.display = "block";  
+                    dots[slideIndex-1].className += " active";
+                    setTimeout(showSlides, 10000); // Change image every 10 seconds
+                }
+            </script>
             
             <h1>LATEST NEWS</h1>
 
