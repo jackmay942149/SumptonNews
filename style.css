@@ -269,6 +269,33 @@ p {
     }
 }
 
+.featured_article_section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-top-style: solid;
+}
+
+.featured_article {
+    width: 20%;
+    padding: 2%;
+    text-align: left;
+}
+
+.featured_article h1{
+    font-size: x-large;
+}
+
+.featured_article h2{
+    font-size: xx-large;
+}
+
+@media (max-width: 1000px) {
+    .featured_article {
+        width: 80%;
+    }
+}
+
 .sponser_mobile {
     display: none;
     margin-left: 1vw;
