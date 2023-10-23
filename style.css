@@ -282,6 +282,15 @@ p {
     text-align: left;
 }
 
+.featured_article a{
+    text-decoration: none;
+    color: black;
+}
+
+.featured_article a:hover{
+    color: #3b3b3b;
+}
+
 .featured_article h1{
     font-size: x-large;
 }
