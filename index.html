@@ -214,36 +214,64 @@
                 <img class="comic" src="/gerald_comics/gerald_comic_003.JPG">
                 <img class="comic" src="/gerald_comics/gerald_comic_004.JPG">
                 <div class="slideshow_buttons">
-                    <span class="slideshow_selector"></span>
-                    <span class="slideshow_selector"></span>
-                    <span class="slideshow_selector"></span>
-                    <span class="slideshow_selector"></span>
+                    <a class="previous-comic" onclick="plusSlides(-1)">&#8249;</a>
+                    <p>&#8203;</p>
+                    <span class="slideshow_selector" onclick="currentSlide(1)"></span>
+                    <span class="slideshow_selector" onclick="currentSlide(2)"></span>
+                    <span class="slideshow_selector" onclick="currentSlide(3)"></span>
+                    <span class="slideshow_selector" onclick="currentSlide(4)"></span>
+                    <p>&#8203;</p>
+                    <a class="next-comic" onclick="plusSlides(1)">&#8250;</a>
                 </div>
+
+                
+                
+                
             </div>
 
             <script>
-                let slideIndex = 0;
+                let slideIndex = 1;
                 showSlides();
+                autoChange(slideIndex);
 
-                function showSlides() {
-                    let i;
-                    let slides = document.getElementsByClassName("comic");
-                    let dots = document.getElementsByClassName("slideshow_selector");
-                    for (i = 0; i < slides.length; i++) {
-                        slides[i].style.display = "none";  
-                    }
-                    slideIndex++;
-                    if (slideIndex > slides.length) {slideIndex = 1}    
-                    for (i = 0; i < dots.length; i++) {
-                        dots[i].className = dots[i].className.replace(" active", "");
-                    }
-                    slides[slideIndex-1].style.display = "block";  
-                    dots[slideIndex-1].className += " active";
-                    setTimeout(showSlides, 10000); // Change image every 10 seconds
+                // Next/previous controls
+                function plusSlides(n) {
+                showSlides(slideIndex += n);
+                }
+
+                // Thumbnail image controls
+                function currentSlide(n) {
+                showSlides(slideIndex = n);
+                }
+
+                function showSlides(n) {
+                let i;
+                let slides = document.getElementsByClassName("comic");
+                let dots = document.getElementsByClassName("slideshow_selector");
+                if (n > slides.length) {slideIndex = 1}
+                if (n < 1) {slideIndex = slides.length}
+                for (i = 0; i < slides.length; i++) {
+                    slides[i].style.display = "none";
+                }
+                for (i = 0; i < dots.length; i++) {
+                    dots[i].className = dots[i].className.replace(" active", "");
+                }
+                slides[slideIndex-1].style.display = "block";
+                dots[slideIndex-1].className += " active";
+                
+
                 }
             </script>
             
             <h1>LATEST NEWS</h1>
+
+            <div class="home_article">
+                <a href="./market_report/new/23october/181023_qld_rural.html">
+                    <img src="./market_report/market_report_generic.JPG" loading="lazy">
+                </a>
+                <h2>Market Report - Queensland Rural - CHARTERS TOWERS SALE</h2>
+                <a href="./market_report/new/23october/181023_qld_rural.html"><p>Read More</p></a>
+            </div>
 
             <div class="home_article">
                 <a href="/articles_new/october23/061023_new_business_more_jobs_in.html">
@@ -305,8 +333,6 @@
                 <h2>Market Report - Queensland Rural - CHARTERS TOWERS SALE</h2>
                 <a href="./market_report/290923_qld_rural.html"><p>Read More</p></a>
             </div>
-
-            
 
             <div class="home_article">
                 <a href="/articles_new/september23/190923_katters_push_for_better_australian.html">
