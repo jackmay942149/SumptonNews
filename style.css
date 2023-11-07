@@ -348,6 +348,7 @@ p {
     margin-right: 2%;
     display: inline-block;
     background-color: white;
+    padding: 32px 4px;
 }
 
 .sponser_mobile {
@@ -517,7 +518,7 @@ p {
     padding-right: 5%;
     font-size: 28px;
     margin-top: 0px;
-    margin-bottom: 1vh;
+    margin-bottom: 3vh;
 }
 
 .article_entry a p {
@@ -561,6 +562,7 @@ p {
         margin-right: auto;
         text-align: center;
         min-width: fit-content;
+        padding: 4px 60px;
     }
 }
 

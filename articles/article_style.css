@@ -128,6 +128,7 @@ body {
 }
 
 .article h1 {
+    padding: 8px;
     font-family: DIN_Condensed, sans-serif;
     font-size: 40px;
 }
